@@ -24,3 +24,6 @@ cambiarnos a la gh-pages y enviar los cambios a github
 git branch -> permite ver las ramas que tenemos creadas
 
 git checkout -b gh-pages -> crea una nueva rama y nos cambia a ella
+
+
+git merge main -> permite que desde una rama fusione los cambios desde otra rama
