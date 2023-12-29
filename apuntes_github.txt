@@ -1,0 +1,13 @@
+git init -> inicializa un repositorio local
+
+git add . -> permite agregar los cambios al área de preparación (stage area)
+
+git commit -m "comentario" -> permite crear una versión del proyecto.
+
+--- para enlazar a un repositorio de github
+
+1.- tener un repositorio creado en github
+2.- agregar el origin (repositorio remoto)
+git remote add origin git@github.com:NelsonRamirezC/animales-salvajes.git
+
+3.- git push origin main -> sube los cambios locales al repositorio remoto
