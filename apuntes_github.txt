@@ -15,3 +15,12 @@ git remote add origin git@github.com:NelsonRamirezC/animales-salvajes.git
 --- COMANDOS DE CHEQUEO 
 git status
 git log
+
+
+--- UTILIZAR GITHUB PAGES COMO HOSTING DE MIS PROYECTOS WEB ESTÁTICOS
+debemos crear una rama llamada gh-PAGES
+cambiarnos a la gh-pages y enviar los cambios a github
+
+git branch -> permite ver las ramas que tenemos creadas
+
+git checkout -b gh-pages -> crea una nueva rama y nos cambia a ella
