@@ -11,3 +11,7 @@ git commit -m "comentario" -> permite crear una versión del proyecto.
 git remote add origin git@github.com:NelsonRamirezC/animales-salvajes.git
 
 3.- git push origin main -> sube los cambios locales al repositorio remoto
+
+--- COMANDOS DE CHEQUEO 
+git status
+git log
